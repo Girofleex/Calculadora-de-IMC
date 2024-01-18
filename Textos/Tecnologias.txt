@@ -1,0 +1,1 @@
+Nesta aplicação, foram utilizadas as tecnologias web: HTML, CSS e JavaScript. Enfrentei desafios que me permitiram aprimorar minha lógica de programação e a habilidade na manipulação do DOM.

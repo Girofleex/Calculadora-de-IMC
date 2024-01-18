@@ -1,0 +1,13 @@
+Propósito da Aplicação:
+A principal finalidade da minha aplicação é calcular o Índice de Massa Corporal, uma medida reconhecida globalmente que relaciona seu peso e altura. Essa métrica oferece insights importantes sobre a composição corporal, permitindo a identificação de possíveis riscos à saúde associados ao peso inadequado. Além disso, a aplicação classifica os resultados em categorias, como magreza, peso normal, sobrepeso e diferentes graus de obesidade.
+
+Importância para o Usuário:
+
+Consciência sobre a Saúde: A Calculadora de IMC proporciona uma avaliação rápida e fácil da sua condição física, incentivando a conscientização sobre a importância do peso adequado para a saúde.
+
+Prevenção de Problemas de Saúde: Ao fornecer uma análise imparcial, a aplicação ajuda na identificação precoce de possíveis problemas de saúde associados ao peso, permitindo intervenções proativas.
+
+Estabelecimento de Metas Realistas: Com os resultados do IMC, os usuários podem estabelecer metas realistas de peso e adotar um estilo de vida saudável, promovendo a prevenção de doenças e o bem-estar geral.
+
+Conclusão:
+A Calculadora de IMC é uma ferramenta que, por meio de cálculos, proporciona uma análise rápida e eficaz do seu Índice de Massa Corporal. O objetivo é simples: alertar e conscientizar sobre a importância da saúde física. Ao utilizar esta aplicação, você não apenas calcula seu IMC, mas também recebe um alerta valioso sobre seu estado de saúde, permitindo a adoção de medidas preventivas para garantir um futuro mais saudável. Invista em sua saúde e bem-estar com a Calculadora de IMC.

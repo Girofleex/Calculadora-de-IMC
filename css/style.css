@@ -1,0 +1,47 @@
+html {
+    font-size: 62.5%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-top: 10%;
+    background-color: rgb(40, 39, 39);
+    flex-wrap: nowrap;
+}
+
+h1 {
+    text-decoration: double;
+    font-size: 5em;
+}
+
+.box {
+    background-color: rgb(187, 226, 240);
+    border-radius: 5%;
+    margin: 0 auto;
+    padding: 2em;
+    border: 1px solid rgb(255, 255, 255);
+}
+
+p {
+    margin-top: 1em;
+    font-size: 3em;
+}
+
+input {
+    font-size: 2em;
+    margin-top: 10px;
+
+}
+
+button {
+    margin-top: 15px;
+    font-size: 2em;
+    margin-left: 5px;
+}
+
+#peso-erro,
+#altura-erro {
+    color: red;
+}
